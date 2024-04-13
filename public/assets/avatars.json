@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "alien",
+        "photo": "./assets/alien.svg",
+        "email": "alienGreen@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Aguacatito",
+        "photo": "./assets/anonimo.svg",
+        "email": "Guacamole@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Teddy",
+        "photo": "./assets/beer.svg",
+        "email": "Teddy@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "cactumus",
+        "photo": "./assets/cactus.svg",
+        "email": "cactumus@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "marilyn",
+        "photo": "./assets/marily.svg",
+        "email": "Monroe@gmail.com"
+    },
+    {
+        "id": 6,
+        "name": "Peresoooso",
+        "photo": "./assets/peresoso.svg",
+        "email": "Peresoooso@gmail.com"
+    },
+    {
+        "id": 7,
+        "name": "Soul",
+        "photo": "./assets/soul.svg",
+        "email": "BoOO!@gmail.com"
+    },
+    {
+        "id": 8,
+        "name": "Spider boy",
+        "photo": "./assets/spider.svg",
+        "email": "Spidey@gmail.com"
+    },
+    {
+        "id": 9,
+        "name": "Fred Zoombie",
+        "photo": "./assets/zombie.svg",
+        "email": "CerebrosFred@gmail.com"
+    }
+]

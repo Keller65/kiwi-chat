@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    scrollbar-color: rgb(0, 0, 0) transparent;
+    scrollbar-width: thin;
+}
+
+#root {
+    background-color: #d8caff;
+    height: 100dvh;
+}
